@@ -39,7 +39,7 @@ XML and HTML are _markup languages_. This means that they use a set of tags or r
 information about the data they contain. This structure helps to automate processing, editing, formatting,
 displaying, printing, etc. that information.
 
-XML documents stores data in plain text format. This provides a software- and hardware-independent way of storing,
+XML documents store data in plain text format. This provides a software- and hardware-independent way of storing,
 transporting, and sharing data. XML format is an open format, meant to be software agnostic. You can
 open an XML document in any text editor and the data it contains will be shown as it is meant to be represented.
 This allows for exchange between incompatible systems and easier conversion of data.
